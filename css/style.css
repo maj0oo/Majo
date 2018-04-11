@@ -1,0 +1,57 @@
+body{
+	background: #9999ff;
+	background: linear-gradient(to bottom, #9999ff, white);
+}
+
+.center{
+	margin: auto;
+    width: 20%;
+    padding: 10px;
+	text-align: center;
+	border-radius: 20px;
+	margin-top: 100px;
+}
+
+.input_index{
+	max-width: 200%;
+}
+
+.button-panel{
+	width: 150px;
+	background-color: #009966;
+}
+
+.ramka{
+	border: solid 1px green; 
+	width: 100%;
+	border-radius: 20px;
+	padding: 20px;
+	background-color: rgba(255,255,255,0.5);
+}
+
+#google_map{
+	width: 90%;
+	height: 500px;
+}
+
+hr{
+	width: 500px;
+	float: left;
+}
+
+.hejt1{
+	margin-top: 20px;
+}
+
+.left{
+	
+	float: left;
+	margin-right: 50px;
+}
+
+.left2{
+	margin-top: -80px;
+
+}
+
+
